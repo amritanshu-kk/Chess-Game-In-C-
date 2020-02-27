@@ -1,5 +1,5 @@
 # Chess-Game-In-C++
-A chess game developed by me as my class project using object oriented principles in c++
+A chess game developed by me as my class project to test my object oriented skills in c++
 
 The main classes are:-
 
