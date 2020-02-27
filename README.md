@@ -6,7 +6,6 @@ The main classes are:-
 Spot: A spot represents one block of the 8×8 grid and an optional piece.
 
 Piece: The basic building block of the system, every piece will be placed on a spot. Piece class is an abstract class. The 
-
 extended classes (Pawn, King, Queen, Rook, Knight, Bishop) implements the abstracted operations.
 
 Board: Board is an 8×8 set of boxes containing all active chess pieces.
